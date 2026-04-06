@@ -227,6 +227,7 @@ input[type="radio"]:checked ~ .bullet .line.seven {
     transform: rotate(-55deg) translate(-20px);
     width: 10px;
   }
+  
   20% {
     opacity: 1;
   }
