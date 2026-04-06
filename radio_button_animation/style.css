@@ -4,7 +4,7 @@
   scroll-behavior: smooth;
 }
 
-::selection{
+::selection {
   background:none;
 }
 
